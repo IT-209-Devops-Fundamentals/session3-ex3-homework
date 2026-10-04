@@ -1,0 +1,8 @@
+!.gitignore
+!README.md
+!.htpasswd
+!*.conf
+!*.html
+!*.png
+!*.jpg
+.env
